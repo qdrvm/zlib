@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0...3.15.0)
+cmake_minimum_required(VERSION 3.14)
 set(CMAKE_ALLOW_LOOSE_LOOP_CONSTRUCTS ON)
 
 project(ZLIB VERSION "1.3" LANGUAGES C)
